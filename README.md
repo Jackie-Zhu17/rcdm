@@ -60,4 +60,4 @@ Example
 
 </h2>
 
-For a detailed simulation example for implementing the Random Covariance Dynamic Model (**RCDM**), see this <a href="https://dilernia.github.io/rcm/exampleSimulationRCM.html">link</a>.
+For a detailed simulation example for implementing the Random Covariance Dynamic Model (**RCDM**), see this.
